@@ -3,15 +3,16 @@
 </h1>  
 
 
-<h2> Hi, I'm tandatle! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm tandatle! <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
+
 <img align='right' src="https://media3.giphy.com/media/3o7btXJQm5DD8ApubC/giphy.gif" width="330">
-<p><em>Learn information security at <a href="http://www.unb.br">Academy Of Cryptography Techniques</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
+<p><em>Learn information security at <a href="http://www.unb.br">Academy Of Cryptography Techniques</a><img src="https://media.giphy.com/media/2iSoof9G2nvN2iKh8p/giphy.gif" width="30"></em></p>
 
 [![GitHub tandatle266](https://img.shields.io/github/followers/tandatle266?label=follow&style=social)](https://github.com/tandatle266)
 
 ![](https://komarev.com/ghpvc/?username=tandatle266&color=green)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/5aY6weoALCAu1qHXpq/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const tandatle = {
