@@ -15,18 +15,17 @@
 
 ```javascript
 const tandatle = {
-  code: [Javascript, HTML, CSS, PHP, Python, Java],
-  hobbies: ["listen to music", "read book", "research", "play CTF", "blogging"],
-  work: ["play CTF", "research", "blogging"],
- challenge: "Today must be better than yesterday 💪💪💪💪"
+  code: [Javascript, HTML, CSS, PHP, VueJS, NestJS, ThreeJS],
+  hobbies: ["listen to music", "read book", "research", "travelling"],
+  work: ["coding", "research"],
+  challenge: "Today must be better than yesterday 💪💪💪💪"
 }
 ```
 ---
 
 ### Contact me
 
-[<img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/color/48/000000/wordpress.png" />](http://tandatle266.wordpress.com/)
-[<img align="left" alt="twitter" width="35px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />](https://twitter.com/__nhienit__)
+[<img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/color/48/000000/facebook.png" />](https://www.facebook.com/tan.dat.le266)
 [<img align="left" alt="github" width="35px" src="https://img.icons8.com/color-glass/48/000000/github.png" />](https://github.com/tandatle266)
 [<img align="left" alt="spotify" width="35px" src="https://img.icons8.com/fluency/48/000000/spotify.png" />](https://open.spotify.com/user/31bmwgpaid4d3fet75wcvf7rwpja)  
 
@@ -39,9 +38,8 @@ const tandatle = {
 <img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
-<img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>  
+<img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+ 
   
 <br />  
   
@@ -50,7 +48,7 @@ const tandatle = {
 <img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/>
 <img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
-<img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/office/16/000000/java-eclipse.png"/>
+
 
 <br />    
 
