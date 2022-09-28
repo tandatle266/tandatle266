@@ -28,7 +28,7 @@ const tandatle = {
 
 [<img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/color/48/000000/facebook.png" />](https://www.facebook.com/tan.dat.le266)
 [<img align="left" alt="github" width="35px" src="https://img.icons8.com/color-glass/48/000000/github.png" />](https://github.com/tandatle266)
-[<img align="left" alt="spotify" width="35px" src="https://img.icons8.com/fluency/48/000000/spotify.png" />](https://open.spotify.com/user/31bmwgpaid4d3fet75wcvf7rwpja)  
+[<img align="left" alt="gmail" width="35px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />](mailto:tandatle266@email.com)  
 
  
 <br />  
