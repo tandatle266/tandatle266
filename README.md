@@ -1,7 +1,6 @@
 <h1 align="center">
   <a  href="">__tandatle266__</a>
-</h1>  
-
+</h1>
 
 <h2> Hi, I'm tandatle! <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
 
@@ -12,7 +11,7 @@
 
 ![](https://komarev.com/ghpvc/?username=tandatle266&color=green)
 
-### <img src="https://media.giphy.com/media/5aY6weoALCAu1qHXpq/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/5aY6weoALCAu1qHXpq/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const tandatle = {
@@ -28,13 +27,12 @@ const tandatle = {
 
 [<img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/color/48/000000/facebook.png" />](https://www.facebook.com/tan.dat.le266)
 [<img align="left" alt="github" width="35px" src="https://img.icons8.com/color-glass/48/000000/github.png" />](https://github.com/tandatle266)
-[<img align="left" alt="gmail" width="35px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />](mailto:tandatle266@email.com)  
+[<img align="left" alt="gmail" width="35px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />](mailto:tandatle266@email.com)
 
- 
-<br />  
+<br />
 
-### Programming language  
-  
+### Programming language
+
 <img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
 <img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
@@ -43,17 +41,15 @@ const tandatle = {
 <img align="left" alt="wordpress" width="35px" src="https://docs.nestjs.com/assets/logo-small.svg"/>
 <img align="left" alt="wordpress" width="35px" src="https://seeklogo.com/images/T/three-js-logo-07A32307F1-seeklogo.com.png"/>
 
-  
-<br />  
-  
-### IDE  
+<br />
+
+### IDE
   
 <img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/>
 <img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
 
-
-<br />    
+<br />
 
 ### Github stats
 ![tandatle266's GitHub stats](https://github-readme-stats.vercel.app/api?username=tandatle266&show_icons=true&theme=chartreuse-dark)
