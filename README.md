@@ -52,6 +52,8 @@ const tandatle = {
 <br />
 
 ### Github stats
-![tandatle266's GitHub stats](https://github-readme-stats.vercel.app/api?username=tandatle266&show_icons=true&theme=chartreuse-dark)
+![tandatle266's GitHub stats](https://github-readme-stats.vercel.app/api?username=tandatle266&theme=chartreuse-dark&include_all_commits=true&rank_icon=github&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+
+![](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=tandatle266&langs_count=7&card_width=400&layout=compact&theme=chartreuse-dark&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
 <br />
